@@ -95,9 +95,6 @@
 .tasks__task_input_new {
     width: 318px;
 }
-.tasks__btn_add:hover {
-    color: #0fc57c;
-}
 
 /* Task list */
 .tasks__item {
@@ -125,9 +122,7 @@
 .tasks__item >    .tasks__task_input {
     width: 226px;
 }
-tasks__btn_action_delete:hover {
-    color: #cf2323;
-}
+
 .tasks__img {
     height: 2em;
     transform: rotateZ(45deg);
