@@ -96,6 +96,10 @@
     width: 318px;
 }
 
+.tasks_add {
+    margin: 20px 0;
+}
+
 /* Task list */
 .tasks__item {
     overflow: hidden;
