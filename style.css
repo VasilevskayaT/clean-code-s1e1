@@ -39,8 +39,7 @@
 }
 .tasks__list {
     margin: 0;
-    
-    : 0px;
+   padding : 0px;
 }
 .tasks__item,
 .task__title {
